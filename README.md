@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Prathmesh
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS ,Azure, Oracle and Google Cloud
+- 💞️ I’m looking to collaborate on projects whrere i can do system design
 - 📫 How to reach me prathmeshnaik96+work@gmail.com
 
 <!---
